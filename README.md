@@ -2,11 +2,13 @@
 
 The MoviesDatabase API provides access to comprehensive and up-to-date data for over 9 million titles, including movies, TV series, and episodes, as well as information on over 11 million actors, crew members, and cast. This API allows developers to retrieve detailed information about movies and TV shows, including cast, plot, genres, and IMDb ratings. It also offers features like movie recommendations and search capabilities by actor or director.
 
+-----
 
 ### Version
 
 The current version of the MoviesDatabase API is v1.
 
+-----
 
 ### Available Endpoints
 
@@ -15,6 +17,7 @@ The current version of the MoviesDatabase API is v1.
   - /actors: Returns information about actors, including their biography, filmography, and other details.
   - /genres: Lists all available genres for filtering movie and TV show searches.
 
+-----
 
 ### Request and Response Format
 
@@ -54,7 +57,7 @@ The current version of the MoviesDatabase API is v1.
     }
   ]
 }
-
+```
 
 ### Authentication
 
